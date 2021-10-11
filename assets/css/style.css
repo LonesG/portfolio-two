@@ -13,20 +13,30 @@ body {
     color: #333;
 }
 
+header h1 {
+    color: #B43E8F;
+    font-size: xxx-large;
+}
+
+h2 {
+    color: #B43E8F;
+}
+
 .container {
-    max-width: 1100px;
+    max-width: 1000px;
     margin: auto;
     overflow: hidden;
-    padding: 0 2rem;
+    padding: 2rem;
     text-align: center;
 }
 
 .restart-btn {
     display: none;
-    background: teal;
-    color:lightslategray;
+    background:#ADF5FF;
+    color: #B43E8F;
     padding: 0.4rem 1.3rem;
-    font-size: 1rem;
+    font-size: 1.5rem;
+    font-family: 'Luckiest Guy';
     margin-bottom: 1rem;
     cursor: pointer;
     outline: none;
@@ -34,8 +44,8 @@ body {
 }
 
 .restart-btn:hover {
-    background: lime;
-    color:magenta;
+    background: #ADF5FF;
+    color: #B43E8F;
 
 }
 
@@ -51,18 +61,17 @@ body {
 .score {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    font-size: 1.2rem;
-    color: lime;    
+    font-size: 2rem;    
 }
 
 .score p:first-child {
-    background: magenta;
-    color: lime;    
+    background: #1B2A41;
+    color: #CCC9DC;    
 }
 
 .score p:last-child {
-    background: rebeccapurple;
-    color: lime;    
+    background: #324A5F;
+    color: #CCC9DC;    
 }
 
 .choice {
@@ -72,15 +81,15 @@ body {
 }
 
 .choice:hover {
-    color: magenta;
+    color: #B43E8F;
 }
 
 .text-win {
-    color: royalblue;
+    color: #546ae5;;
 }
 
 .text-lose {
-    color: red;
+    color: #B43E8F;
 }
 
 @media (max-width: 700px) {
