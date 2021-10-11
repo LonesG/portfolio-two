@@ -133,14 +133,29 @@ audio {
     color: #B43E8F;
 }
 
+footer {
+    max-width: 900px;
+    margin: auto;
+    overflow: hidden;
+    padding: 2rem;
+    text-align: center;
+}
+
 @media (max-width: 700px) {
     .choice {
         font-size: 110px;
+    }
+
+    audio {
+        position: relative;
     }
 }
 
 @media (max-width: 500px) {
     .choice {
         font-size: 50px;
+    }
+    audio {
+        position: relative;
     }
 }
