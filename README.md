@@ -126,11 +126,16 @@ The user will have the option to play a music clip which incorporates the voice 
 -   ### The Skeleton Plane
 
     -   #### Colour Scheme
-        -   The main colours used were chosen from a complimetary color pallete generator online.
+        -   The main colours used were chosen from a complimetary color pallete generator online. I wanted the colours to be complimetary but understated and to not draw away from the game. I then chose a plum shade, (#B43E8F) to use as my main text colour, the hover over icon colour and also as my text colour on my buttons. I chose this colour by playing around with the hue of the last colour from my pallete, #CCC9DC. In doing so, I could be sure the colour would offer a contrast to the darker colours, without being harsh or hard to see. 
+
+            ![Color Pallete](images/color-pallete.png)
+
     -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The "Luckiest Guy "font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Luckiest Guy is a fun and playful font and it struck me as the perfect choice for a simple, fun game. I liked this font and think it brings an element of fun to the look of the site. 
+
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   I chose a simple image of the rules to convey the message to the player. This image was taken from the website [Instructables](https://www.instructables.com/How-to-Play-Rock-Paper-Scissors-Lizard-Spock/#discuss) This website allows for screenshot usage of their information. *Autodesk screen shots reprinted courtesy of Autodesk, Inc.*
+        ![Rules Image](images/rulesimage.jpeg)
 
 *   ### Wireframes
 
