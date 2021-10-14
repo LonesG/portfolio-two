@@ -7,24 +7,43 @@ Rock Paper Scissors Lizard Spock is a web based game built in JavaScript, HTML a
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
 ## Table of Contents
-* [User Experience Design (UX)](#ux)
-    * [The Strategy Plane](#The-Strategy-Plane)
-        * [Site Goals](#Site-Goals)
-        * [User Stories](#User-Stories)
-    * [The Scope Plane](#The-Scope-Plane)
-    * [The Structure Plane](#The-Structure-Plane)
-    * [The Skeleton Plane](#The-Skeleton-Plane)
-        * [Wireframes](#Wireframe-mockups)
-    * [The Surface Plane](#The-Surface-Plane)
-        * [Design](#Design)
-            * [Background Image](#background-image)
-            * [Colour Scheme](#Colour-Scheme)
-            * [Typography](#Typography)
-* [Features](#features)
-* [Future Enhancements](#future-enhancements)
-* [Testing](#testing)
-* [Deployment](#deployment)
-* [Credits](#credits)
+
+<ul>
+    <li>
+        <a href="#User Experience Design (UX) "><strong>User Experience (UX)</strong></a>               
+    </li>
+    <li>
+        <a href="#The Strategy Plane"><strong>The Strategy Plane</strong></a>
+    </li>
+    <li>
+        <a href="#The Scope Plane"><strong>The Scope Plane</strong></a>   
+    </li>
+    <li>
+        <a href="#The Structure Plane"><strong>The Structure Plane</strong></a>
+    </li>
+    <li>
+        <a href="#The Skeleton Plane"><strong>The Skeleton Plane</strong></a>
+    </li>
+    <li>
+        <a href="#The Surface Plane"><strong>The Surface Plane</strong></a>
+    </li>
+    <li>
+       <a href="#Features"><strong>Features</strong></a> 
+    </li>
+    <li>
+       <a href="#Future Enhancements"><strong>Future Enhancements</strong></a> 
+    </li>
+    <li>
+       <a href="#Testing"><strong>Testing</strong></a> 
+    </li>
+    <li>
+       <a href="#Deployment"><strong>Deployment</strong></a> 
+    </li>
+    <li>
+       <a href="#Credits"><strong>Credits</strong></a> 
+    </li>
+</ul>
+<hr>
 
 
 ## User Experience Design (UX)
@@ -68,58 +87,58 @@ I believe this website is entertainig for the users and it offers them a simple 
 - ### The Structure Plane
 
 - #### Structure
-I decided to break up the game into two different pages. There is also a modal used on the game site which conveys the winning choice and the computer's choice after every draw to the player.
+- I decided to break up the game into two different pages. There is the landing page where the user can play the game and there is the rules page which can be acessed through clicking the "Rules" button on the landing page. There is also a modal used on the game site which conveys the winning choice and the computer's choice after every draw to the player.
 I chose to use the modal structure as I felt it was a nice simple way to display the computer's score. The player may then click anywhere outside the modal to return to the game interface.
 
-I wanted to ensure the structure allowed me to implement the functions and features needed to meet the user story requirements.
+  I wanted to ensure the structure allowed me to implement the functions and features needed to meet the user story requirements.
 
-*User Story:*
+    *User Story:*
     
-As a user, I want a fun and simple game to play.
+    As a user, I want a fun and simple game to play.
 
-*Acceptance Criteria:*
+    *Acceptance Criteria:*
 
-It should be clear that it is a game, what it is about and how to play.
+    It should be clear that it is a game, what it is about and how to play.
 
-*Implementation:*
+    *Implementation:*
 
-The chosen colour scheme, accesible layout and typography allow the user to interact with a game that is fun, vibrant and easy on the eye. There are links to the rules on the main game site and also links to a Youtube video explaining the rules further.
+    The chosen colour scheme, accesible layout and typography allow the user to interact with a game that is fun, vibrant and easy on the eye. There are links to the rules on the main game site and also links to a Youtube video explaining the rules further.
 
-*User Story:*
+    *User Story:*
     
-As a user, I want to know the rules of the game.
+    As a user, I want to know the rules of the game.
 
-*Acceptance Criteria:*
+    *Acceptance Criteria:*
 
-The user should be able to see the rules clearly to inform their choice when playing.
+    The user should be able to see the rules clearly to inform their choice when playing.
 
-*Implementation:*
+    *Implementation:*
 
-The user can access the rules by clicking the "Rules" button to take them to a diagram explaining the rules. They can see all options and how they may win or loose depending on their choice. 
+    The user can access the rules by clicking the "Rules" button to take them to a diagram explaining the rules. They can see all options and how they may win or loose depending on their choice. 
     
-*User Story:*
+    *User Story:*
 
-As a user, I want to find out more about this version of the game.
+    As a user, I want to find out more about this version of the game.
     
-*Acceptance Criteria:*
+    *Acceptance Criteria:*
 
-The user should be able to gain further understanding of this version of the game through instructions or directions.
+    The user should be able to gain further understanding of this version of the game through instructions or directions.
 
-*Implementation:*
+    *Implementation:*
 
-The user will be able to read the rules of the game using the "Rules" page. Users may want more information and can find this by clicking on the Youtube link to take them to a further oral explanation from the T.V. show "The Big Bang Theory"
+    The user will be able to read the rules of the game using the "Rules" page. Users may want more information and    can find this by clicking on the Youtube link to take them to a further oral explanation from the T.V. show "The Big Bang Theory"
 
-*User Story:*
+    *User Story:*
 
-As a user, I want to interact with the site and use the media player.
+    As a user, I want to interact with the site and use the media player.
 
-*Acceptance Criteria:*
+    *Acceptance Criteria:*
 
-The user should be able to play background music by using the audio controls underneath the game area.
+    The user should be able to play background music by using the audio controls underneath the game area.
 
-*Implementation:*
+    *Implementation:*
 
-The user will have the option to play a music clip which incorporates the voice of Spock from T.V. show, Star Trek. This is a nice nod to the "Spock" element of the game - with the audio playing an excerpt from the character Spock. This sets the tone and should provide the player with some light hearted entertainment.
+    The user will have the option to play a music clip which incorporates the voice of Spock from T.V. show, Star Trek. This is a nice nod to the "Spock" element of the game - with the audio playing an excerpt from the character Spock. This sets the tone and should provide the player with some light hearted entertainment.
 
 
 -   ### The Skeleton Plane
@@ -144,48 +163,39 @@ The user will have the option to play a music clip which incorporates the voice 
     -   Mobile Wireframe - ![Mobile Wireframe](images/mobile-img.png)
 
 
-    -   
-
 ## Features
 
 -   Responsive on all device sizes
 
--   Interactive elements
 
-## Technologies Used
+## Technologies
 
 ### Languages Used
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+    - Font Awesome was used for the game icons.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup Validator, W3C CSS Validator Services and JSHint JavaScript Validator were used to validate the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-  ![W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+-  ![W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+-  ![JSHint JavaScript Validator](images/jshint-img.png)
 
 ### Testing User Stories from User Experience (UX) Section
 

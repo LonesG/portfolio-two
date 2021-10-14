@@ -28,7 +28,7 @@ function getComputerChoice() {
     return 'scissors';
   } else if (rand <= 0.8) {
       return 'lizard';
-  } else return 'spock'
+  } else return 'spock';
 
 }
 
@@ -87,7 +87,7 @@ function getWinner(p, c) {
 			return "computer";
 		}
 	}
-};
+}
 
 function showWinner(winner, computerChoice) {
   if (winner === 'player') {
