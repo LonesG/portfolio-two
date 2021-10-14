@@ -7,7 +7,7 @@ Rock Paper Scissors Lizard Spock is a web based game built in JavaScript, HTML a
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
 ## Table of Contents
-* [User Experience Design (UX)](#UX)
+* [User Experience Design (UX)](#ux)
     * [The Strategy Plane](#The-Strategy-Plane)
         * [Site Goals](#Site-Goals)
         * [User Stories](#User-Stories)
@@ -20,7 +20,6 @@ Rock Paper Scissors Lizard Spock is a web based game built in JavaScript, HTML a
             * [Background Image](#background-image)
             * [Colour Scheme](#Colour-Scheme)
             * [Typography](#Typography)
-            * [UFO Characters](#ufo-characters)
 * [Features](#features)
 * [Future Enhancements](#future-enhancements)
 * [Testing](#testing)
@@ -38,22 +37,22 @@ Rock Paper Scissors Lizard Spock is a web based game built in JavaScript, HTML a
 
     The target audience covers a huge span of players of all ages. School age children could read and play this game by following the rules listed in the rules section. Equally, it is suitable for an older audience, and in particular, fans of the T.V. show, "The Big Bang Theory". (From which this version of the game originated)
 
--   ### User Stories
+-   #### User Stories
 
--   #### First Time Visitor Goals
+-   ##### First Time Visitor Goals
     
     1. As a First Time Visitor, I want a fun and simple game to play
     2. As a First Time Visitor, I want to know the rules of the game.
     
     <br>
 
--   #### Returning Visitor Goals
+-   ##### Returning Visitor Goals
     1. As a Returning Visitor, I want to find out more about this version of the game.
     2. As a Returning Visitor, I want to interact with the site and use the media player.
 
     <br>
 
--   #### Frequent User Goals
+-   ##### Frequent User Goals
     1. As a Frequent User, 
     2. As a Frequent User, 
         
@@ -137,13 +136,15 @@ The user will have the option to play a music clip which incorporates the voice 
         -   I chose a simple image of the rules to convey the message to the player. This image was taken from the website [Instructables](https://www.instructables.com/How-to-Play-Rock-Paper-Scissors-Lizard-Spock/#discuss) This website allows for screenshot usage of their information. *Autodesk screen shots reprinted courtesy of Autodesk, Inc.*
         ![Rules Image](images/rulesimage.jpeg)
 
-*   ### Wireframes
+    -   #### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Desktop Wireframes- ![Desktop Wireframe One](images/desktop-img-one.png)
+    ![Desktop Wireframe Two](images/desktop-img-two.png)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Mobile Wireframe - ![Mobile Wireframe](images/mobile-img.png)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+
+    -   
 
 ## Features
 
