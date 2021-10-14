@@ -193,7 +193,7 @@ I chose to use the modal structure as I felt it was a nice simple way to display
 
 The W3C Markup Validator, W3C CSS Validator Services and JSHint JavaScript Validator were used to validate the project to ensure there were no syntax errors in the project.
 
--  ![W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+-  ![W3C HTML Validator]
 -  ![W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
 -  ![JSHint JavaScript Validator](images/jshint-img.png)
 
