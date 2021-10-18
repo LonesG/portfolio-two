@@ -10,7 +10,7 @@ Rock Paper Scissors Lizard Spock is a web based game built in JavaScript, HTML a
 
 <ul>
     <li>
-        <a href="#User Experience Design (UX) "><strong>User Experience (UX)</strong></a>               
+        <a href="#User Experience (UX) "><strong>User Experience (UX)</strong></a>               
     </li>
     <li>
         <a href="#The Strategy Plane"><strong>The Strategy Plane</strong></a>
@@ -191,16 +191,6 @@ The W3C Markup Validator, W3C CSS Validator Services and JSHint JavaScript Valid
 -  ![W3C CSS Validator](images/css-validator-img.png)
 -  ![JSHint JavaScript Validator](images/jshint-img.png)
 
-### Testing User Stories from User Experience (UX) Section
-
--   #### First Time Visitor Goals
-
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
-        2. The main points are made immediately with the hero image
-        3. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the m.
-
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer and Safari browsers.
@@ -267,15 +257,12 @@ $ git clone https://github.com/LonesG/portfolio-two
 
 ## Credits
 
-### Code
 
 -   The rules image came with permission from [Instructables](https://www.instructables.com/How-to-Play-Rock-Paper-Scissors-Lizard-Spock/#discuss)
 
-- 
-
-### Content
-
 -   All content was written by the developer.
+
+-   Ideas for structuring this project taken from online tutorials (https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
 
 ### Acknowledgements
 
