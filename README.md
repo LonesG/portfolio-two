@@ -7,46 +7,24 @@ Rock Paper Scissors Lizard Spock is a web based game built in JavaScript, HTML a
 ![Am I Responsive Image](images/responsive-img.png)
 
 ## Table of Contents
+<ol>
+ <li>User Experience (UX)</li>
+ <ol>
+ <li>The Strategy Plane</li>
+ <li>The Scope Plane</li>
+ <li>The Structure Plane</li>
+ <li>The Skeleton Plane</li>
+ <li>The Surface Plane</li>
+ </ol>
+ <li>Features</li>
+ <li>Future Enhancements</li>
+ <li>Testing</li>
+ <li>Deployment</li>
+ <li>Credits</li>
+</ol>
+ <hr>
 
-<ul>
-    <li>
-        <a href="#User Experience (UX) "><strong>User Experience (UX)</strong></a>               
-    </li>
-    <li>
-        <a href="#The Strategy Plane"><strong>The Strategy Plane</strong></a>
-    </li>
-    <li>
-        <a href="#The Scope Plane"><strong>The Scope Plane</strong></a>   
-    </li>
-    <li>
-        <a href="#The Structure Plane"><strong>The Structure Plane</strong></a>
-    </li>
-    <li>
-        <a href="#The Skeleton Plane"><strong>The Skeleton Plane</strong></a>
-    </li>
-    <li>
-        <a href="#The Surface Plane"><strong>The Surface Plane</strong></a>
-    </li>
-    <li>
-       <a href="#Features"><strong>Features</strong></a> 
-    </li>
-    <li>
-       <a href="#Future Enhancements"><strong>Future Enhancements</strong></a> 
-    </li>
-    <li>
-       <a href="#Testing"><strong>Testing</strong></a> 
-    </li>
-    <li>
-       <a href="#Deployment"><strong>Deployment</strong></a> 
-    </li>
-    <li>
-       <a href="#Credits"><strong>Credits</strong></a> 
-    </li>
-</ul>
-<hr>
-
-
-## User Experience Design (UX)
+## User Experience (UX)
 
 -   ### The Strategy Plane
 -   #### Site Goals
@@ -137,6 +115,16 @@ I chose to use the modal structure as I felt it was a nice simple way to display
 
 -   ### The Skeleton Plane
 
+    -   #### Wireframes
+    - I used Balsamiq to make initial Wireframes in the design part of the process.
+
+    -   Desktop Wireframes- ![Desktop Wireframe One](images/desktop-img-one.png)
+    ![Desktop Wireframe Two](images/desktop-img-two.png)
+
+    -   Mobile Wireframe - ![Mobile Wireframe](images/mobile-img.png)
+
+-   ### The Surface Plane
+
     -   #### Colour Scheme
         -   The main colours used were chosen from a complimetary color pallete generator online. I wanted the colours to be complimetary but understated and to not draw away from the game. I then chose a plum shade, (#B43E8F) to use as my main text colour, the hover over icon colour and also as my text colour on my buttons. I chose this colour by playing around with the hue of the last colour from my pallete, #CCC9DC. In doing so, I could be sure the colour would offer a contrast to the darker colours, without being harsh or hard to see. 
 
@@ -148,13 +136,6 @@ I chose to use the modal structure as I felt it was a nice simple way to display
     -   #### Imagery
         -   I chose a simple image of the rules to convey the message to the player. This image was taken from the website [Instructables](https://www.instructables.com/How-to-Play-Rock-Paper-Scissors-Lizard-Spock/#discuss) This website allows for screenshot usage of their information. *Autodesk screen shots reprinted courtesy of Autodesk, Inc.*
         ![Rules Image](images/rulesimage.jpeg)
-
-    -   #### Wireframes
-
-    -   Desktop Wireframes- ![Desktop Wireframe One](images/desktop-img-one.png)
-    ![Desktop Wireframe Two](images/desktop-img-two.png)
-
-    -   Mobile Wireframe - ![Mobile Wireframe](images/mobile-img.png)
 
 
 ## Features
