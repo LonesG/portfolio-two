@@ -31,6 +31,15 @@ h2 {
 }
 
 .rules {
+    background:#ADF5FF;
+    color: #B43E8F;
+    padding: 0.4rem 1.3rem;
+    font-size: 1.5rem;
+    font-family: 'Luckiest Guy';
+    margin-bottom: 1rem;
+    cursor: pointer;
+    outline: none;
+    border: none;
     max-width: 900px;
     margin: auto;
     overflow: hidden;
@@ -60,33 +69,6 @@ h2 {
     cursor: pointer;
     outline: none;
     border: none;
-}
-
-.rule-btn {
-    background:#ADF5FF;
-    color: #B43E8F;
-    padding: 0.4rem 1.3rem;
-    font-size: 1.5rem;
-    font-family: 'Luckiest Guy';
-    margin-bottom: 1rem;
-    cursor: pointer;
-    outline: none;
-    border: none;
-}
-
-#quiz {
-    background:#ADF5FF;
-    display: flexbox;
-    align-items: center;
-    width: auto;
-    color: #B43E8F;
-    padding: 0.4rem 1.3rem;
-    font-size: 2rem;
-    font-family: 'Luckiest Guy';
-    margin-bottom: 1rem;
-    cursor: pointer;
-    outline: none;
-    border: none;    
 }
 
 audio {
@@ -152,7 +134,7 @@ footer {
     max-width: 900px;
     margin: auto;
     overflow: hidden;
-    padding: 2rem;
+    padding: 4rem;
     text-align: center;
 }
 
