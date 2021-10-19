@@ -70,3 +70,15 @@
         font-size: 1rem;
     }
 }
+
+@media (max-width: 350px) {
+.modal-content {
+    width: 10%;
+}
+
+.modal {
+    height: 70%;
+    width: 70%;
+    overflow: hidden;
+ }
+}

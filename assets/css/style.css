@@ -159,4 +159,26 @@ footer {
     #rules-img {
         width: 70%;   
     }
+
+    .score {
+        font-size: 1.1rem;    
+    }
+}
+
+@media (max-width: 350px) {
+    .choice {
+        font-size: 50px;
+    }
+    audio {
+        position: relative;
+    }
+    
+    #rules-img {
+        width: 70%;   
+    }
+
+    .score {
+        font-size: 1rem;    
+    }
+
 }

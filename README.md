@@ -188,8 +188,8 @@ I changed the anchor tag to include my href link and took out the button. Instea
 - I found as it was my first time using JavaScript that I had quite a few extra semicolons that needed to be removed.
 
 #### Bugs
--   On mobile devices initially, the modal showing the results was not closing when the user clicked outside the modal area as was happening on desktop versions. 
--
+-   Initially the game was not showing my modal. I then  researched using StackOverflow and Slack and realised I needed to set my z index value to 1. This allowed the modal to show over the main page when the result was to be shown.
+- 
 
 ## Deployment
 
