@@ -155,4 +155,8 @@ footer {
     audio {
         position: relative;
     }
+
+    #rules-img {
+        width: 70%;   
+    }
 }
