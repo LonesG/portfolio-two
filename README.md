@@ -195,6 +195,9 @@ I changed the anchor tag to include my href link and took out the button. Instea
 
 #### Bugs
 -   Initially the game was not showing my modal. I then researched using StackOverflow and Slack and realised I needed to set my z index value to 1. This allowed the modal to show over the main page when the result was to be shown.
+- When checking for responsiveness on mobile devices, I noted that the modal would not close when the user clicked the area outside the modal as was happening on desktop. I spent a lot of time researching this and have fixed the bug by adding the code from lines 56-64 in my index.html file.
+Many components of Bootstrap require the use of JavaScript to function. Specifically, they require jQuery, Popper.js and JavaScript plugins. As part of the listed components requiring JavaScript, GetBootStrap.com note "Modals for displaying, positioning, and scroll behavior" as one. Read more here:  [GetBootStrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+
 
 ## Deployment
 
