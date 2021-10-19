@@ -140,7 +140,11 @@ I chose to use the modal structure as I felt it was a nice simple way to display
 
 ## Features
 
--   Responsive on all device sizes
+-   Responsive on all device sizes.
+
+## Future Features 
+
+- I would like to develop this game further by adding a level of difficulty. I would like to make a regular Rock, Paper, Scissors game and then add an option for the player to play the original version or else play the "Lizard, Spock" variation of the game as I have created.
 
 
 ## Technologies
@@ -178,6 +182,8 @@ The W3C Markup Validator, W3C CSS Validator Services and JSHint JavaScript Valid
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhone.
 -   A variety of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+- While playing the game, every time the User presses Rock, Paper, Scissors, Lizard or Spock it should result in one of five outcomes, two should be User wins, two should be Computer wins and one should result in a draw. This was confirmed on all acounts.
+- When playing the game, the scoreboard should update after each play. The compmuter or player score should increment by one. This has been tested and occurs for every result.
 
 ### Known Bugs and Errors
 
@@ -188,8 +194,7 @@ I changed the anchor tag to include my href link and took out the button. Instea
 - I found as it was my first time using JavaScript that I had quite a few extra semicolons that needed to be removed.
 
 #### Bugs
--   Initially the game was not showing my modal. I then  researched using StackOverflow and Slack and realised I needed to set my z index value to 1. This allowed the modal to show over the main page when the result was to be shown.
-- 
+-   Initially the game was not showing my modal. I then researched using StackOverflow and Slack and realised I needed to set my z index value to 1. This allowed the modal to show over the main page when the result was to be shown.
 
 ## Deployment
 
