@@ -17,7 +17,7 @@ Rock Paper Scissors Lizard Spock is a web based game built in JavaScript, HTML a
  <li>The Surface Plane</li>
  </ol>
  <li>Features</li>
- <li>Future Enhancements</li>
+ <li>Future Features</li>
  <li>Testing</li>
  <li>Deployment</li>
  <li>Credits</li>
