@@ -142,6 +142,41 @@ I chose to use the modal structure as I felt it was a nice simple way to display
 
 -   Responsive on all device sizes.
 
+### Landing Page
+- The user opens the game and lands on the following page which is bright and colourful using contrasting colours that are easy on the eye for the user.
+![Landing Page](images/landing-img.png)
+### Header
+- The first piece of text the player sees is the game title, "Rock Paper Scissors Lizard Spock", which identifies what the page is about and the name of the game being played.
+![Header](images/header-img.png)
+### Rules
+- The user then encounters the "Rules" link which takes them to the rules page, where they can learn how to play if unsure of the rules. The text again, is Google font "Luckiest Guy" which is the same as the header, in keeping with the overal style. Throughout the game, these links are styled in the same uniform way so that players can navigate the site and the game easily.
+![Rules link](images/rules-link-img.png)
+#### Rules Page
+- The rules page uses an image to display the rules of the game, Rock Paper Scissors Lizard. The user may use this page to clarify the rules and to identify the winning hand in each round.
+![Rules Page](images/rules-page-img.png)
+### Start Game
+- Once the user is on the rules page, they can also return to the game page from here by using the "Start Game" link. Again, the link is styled in line with the site's colours so that the user can navigate the game easily.
+![Start Game](images/start-game-img.png)
+### Scoreboard
+- The player then sees the scoreboard area, where they can keep count of their own score as well as the computer's score. The initial number shown is "0" for both players, however this increments after each round.
+![Scoreboard](images/scoreboard-img.png)
+### Game Area
+- The player then encounters the game area, where they choose their weapon of choice, either rock, paper, scissors, lizard or spock. Each option is styled using a Fontawesome icon of the same size and colour. When the user hovers over the icon, the icon is highlighted in pink. This colour is the same colour as the header text in line with the overall styling of the game.
+![Game Area](images/game-choice-img.png)
+#### Audio Player
+- The player may add some sound to their gaming experience by choosing to turn on the audio player. This audio is set to mute on page loading. The user has control of the audio with the play button and the volume control. The audio is a clip of Spock from Star Trek, a nod to the Spock element of this variant of the game.
+![Audio Player](images/audio-player-img.png)
+#### Footer
+- The footer gives the player the option to follow a link to a Youtube clip, which again gives more details of the game and the rules. This link opens in a new window, allowing the user to stay on the game page.
+![Footer](images/footer-img.png)
+#### Modal
+- The modal displays the winning player of each round to the player. The message "You win" is displayed in the same pink colour used throught the site. The message "You lose" is displayed in blue, which is a lighter hue from the site colour pallete. The text "It's a draw" is displayed in the same grey colour as is used on the modal. In this way, the user gets to know the colours as siganls for a winning round, losing round or a draw.
+- The modal also displays the computer's choice also to the player.
+![Modal](images/modal-img.png)
+#### Restart Game
+- The restart game link allows the player to restart the game, which sets the scoreboard back to "0" for each player. This button is hidden on the landing page initially. It only loads once the player has made their first choice. A player may reset the game after one round.
+![Restart Game](images/restart-game-img.png)
+
 ## Future Features 
 
 - I would like to develop this game further by adding a level of difficulty. I would like to make a regular Rock, Paper, Scissors game and then add an option for the player to play the original version or else play the "Lizard, Spock" variation of the game as I have created.
@@ -167,6 +202,8 @@ I chose to use the modal structure as I felt it was a nice simple way to display
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes during the design process.
+1. [Bootstrap:](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+    - Bootstrap Introduction was used to find a script to fix the modal on mobile devices.
 
 ## Testing
 
